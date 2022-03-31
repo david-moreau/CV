@@ -3,7 +3,7 @@ _Administrateur Supervision Zabbix_
 
 [Email](mailto:davidmoreau53@pm.me) / [GitHub](https://github.com/david-moreau)
 
-## 👩🏼‍💻 Expérience professionnelle
+## 🧑🏻‍💻 Expérience professionnelle
 
 **Administrateur Supervision Zabbix** @ [Claranet](https://www.claranet.fr/) _(Depuis Dec 2019)_ <br>
 Au sein d'une équipe transverse, qui à la charge de fournir des outils pour faciliter le travail des collaborateurs.
@@ -102,7 +102,7 @@ Mise en place de plateforme de sauvegardes
 
 Astreintes nuit et week-end à domicile
 **_Technologies Utilisées_**: Linux/Windows, Veeam, Puppet, Ansible, Git, Vmware, etc
-## 👩🏼‍🎓 Études et Formations
+## 🧑🏻‍🎓 Études et Formations
 
 **Formation Zabbix** (non certifiantes) _(2019)_
 
@@ -120,7 +120,7 @@ Astreintes nuit et week-end à domicile
 **Français**: Langue maternelle
 **Anglais**: écrit et parlé en tant que compétence professionnelle
 
-## Centres d'’intérêt
+## 📌 Centres d'’intérêt
   - Handball
   - Moto
   - Menuieserie
