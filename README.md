@@ -29,7 +29,7 @@ Au sein de l'équipe CORE (Customer Operations & Requests Experts), nous assuron
   - Édition de documentation, Formation interne.
 **_Technologies Utilisées_**: Linux/Windows, Puppet, Zabbix, Ansible, VMware, Apache2, Nginx, Varnish, bind9, rundeck, Mysql, Postgresql
 
-**Support N3 applicatifs** @ [Neo-Soft](https://www.neo-soft.fr/) _(Oct 2016 - Dec  2016)_
+**Support N3 applicatifs** @ [Neo-Soft](https://www.neo-soft.fr/) _(Oct 2016 - Dec  2016)_<br>
 Société de Service en Ingénierie Informatique
 
 Support N3 applicatifs pour Oranges
@@ -37,7 +37,7 @@ Support N3 applicatifs pour Oranges
   - Rédaction de procédure
   - Traitement et Qualité de données
 	
-**Support N3 applicatifs** @ [Neo-Soft](https://www.neo-soft.fr/) _(Aout 2016 - Oct  2016)_
+**Support N3 applicatifs** @ [Neo-Soft](https://www.neo-soft.fr/) _(Aout 2016 - Oct  2016)_<br>
 Société de Service en Ingénierie Informatique
 
 Intégrateur système et tests de qualifications pour la Direction générale des armées
@@ -49,7 +49,7 @@ Intégrateur système et tests de qualifications pour la Direction générale de
       Exemple : Import LDAP dans un outil de supervision 
   - Administration systèmes et réseaux avant intégration 
 
-**Administrateur Système** @ [Axians Cloud Services](https://www.axians.fr/)
+**Administrateur Système** @ [Axians Cloud Services](https://www.axians.fr/)<br>
 Hébergement, intégration, monitoring de plateformes et MCO 24h/24 7J/7.
 
 Intervention en Datacenter sur différents équipements (baie, serveur, ESX, switch, routeur etc.) et différentes plateformes : 
@@ -117,7 +117,7 @@ Astreintes nuit et week-end à domicile
 
 ## 💬 Langues
 
-**Français**: Langue maternelle
+**Français**: Langue maternelle<br>
 **Anglais**: écrit et parlé en tant que compétence professionnelle
 
 ## 📌 Centres d'’intérêt
