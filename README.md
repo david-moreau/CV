@@ -8,7 +8,7 @@ _Administrateur Supervision Zabbix_
 **Administrateur Supervision Zabbix** @ [Claranet](https://www.claranet.fr/) _(Depuis Dec 2019)_ <br>
 Au sein d'une équipe transverse, qui à la charge de fournir des outils pour faciliter le travail des collaborateurs.
 
-J'ai la responsabilité de la solution de supervision Zabbix, avec comme mission:
+En tant qu'expert supervision autour de la solution Zabbix, j'ai comme mission:
   - Le Maintiens en Condition Opérationnel.
   - Le maintient à Jour.
   - Intégration des nouvelles foncitonnalitées (SSO, TimescaleDB, HA)
@@ -106,13 +106,13 @@ Astreintes nuit et week-end à domicile
 
 **Formation Zabbix** (non certifiantes) _(2019)_
 
-**Licence professionnel ASSUR AdminiStration et sécurité des réseaux**
+**Licence professionnel** ASSUR AdminiStration et sécurité des réseaux
     Iut de Saint-Malo _(2012 - 2013)_
 
-**BTS Informatique de gestion**
+**BTS** Informatique de gestion
     Lycée Douanier Rousseau à Laval _(2009 - 2012)
 
-**Bac Pro Micro-informatique et réseaux, installation et maintenance** 
+**Bac Professionel** Micro-informatique et réseaux, installation et maintenance** 
     Lycée Coëtlogon à Rennes _(2009)_
 
 ## 💬 Langues
