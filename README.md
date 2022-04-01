@@ -124,4 +124,5 @@ Astreintes nuit et week-end à domicile
   - Handball
   - Moto
   - Menuieserie
+  - Jeux de société
   - Roman policier/thriller
